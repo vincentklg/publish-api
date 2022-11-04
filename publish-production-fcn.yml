@@ -1,0 +1,10 @@
+publish:
+- name: room-management
+  api-id: 63118adf-e13a-410f-918a-dfe13ad10fae
+  publish-repository: room-management-example-publish
+- name: room-management-v2
+  api-id: eaaa5397-a04f-4c07-aa53-97a04f0c079d
+  publish-repository: room-management-example-publish
+- name: json-placeholder-example
+  api-id: c82c9dc9-a5e4-42d1-ac9d-c9a5e422d105
+  publish-repository: json-placeholder-example-publish
