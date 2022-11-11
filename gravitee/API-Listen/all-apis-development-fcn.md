@@ -17,4 +17,5 @@
 | Wholesale Glossaries-API | 1.0.1 | b9ce9129-03ec-46f7-8e91-2903ecd6f7cf |
 | Wholesale Outstandings-API | 0.1.2-SNAPSHOT | 1c68ef27-f00d-46fe-a8ef-27f00de6fe46 |
 | Wholesale Primaries-API | 1.0.0 | 52f408d3-6179-476a-b408-d36179f76ac8 |
+
 [Download CSV](gravitee/API-Listen/CSV-Dateien/all-apis-development-fcn.csv
