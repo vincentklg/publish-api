@@ -42,4 +42,4 @@
 | withholding-tax-transactions | 0.1 | c71234c7-c0c1-4387-9234-c7c0c18387ed | PRIVATE | STARTED | CREATED |
 | ZebrA | 0.1 | 5a4f9abf-32d0-4cb6-8f9a-bf32d0ecb6f7 | PRIVATE | STARTED | CREATED |
 
-[Download CSV](CSV-Dateien/all-apis-development-fcn.csv)
+[Download CSV](csv-dateien/all-apis-development-fcn.csv)
